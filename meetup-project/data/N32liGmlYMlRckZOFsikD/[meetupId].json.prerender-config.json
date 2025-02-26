@@ -1,0 +1,10 @@
+{
+  "type": "Prerender",
+  "expiration": 1,
+  "group": 9,
+  "bypassToken": "02efaeb048b1f1f5c21c295fbf82b9a7",
+  "fallback": null,
+  "allowQuery": [
+    "meetupId"
+  ]
+}
